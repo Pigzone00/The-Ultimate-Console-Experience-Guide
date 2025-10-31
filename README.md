@@ -39,7 +39,6 @@ Now the rest in categories:
 - [Small World Type](https://modrinth.com/datapack/lce-small-world-type)
 - [Old Villages](https://www.planetminecraft.com/data-pack/classic-villages)
 - [No Caves](https://modrinth.com/datapack/no-caves)
-- [Faster Minecarts](https://modrinth.com/datapack/darcenos-minecarts/version/15d9iY5W)
 
 ## The Nether
 - [Legacy Nether](https://modrinth.com/datapack/legacy-nether-modrinth) or [Legacy Nether: Extended](https://modrinth.com/datapack/legacy-nether-extended)
