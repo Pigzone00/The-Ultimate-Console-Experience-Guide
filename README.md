@@ -36,13 +36,14 @@ Now the rest in categories:
 ## The Overworld
 - [Limited Worlds](https://discord.com/channels/1379530548699205774/1403108173363023933/1432373318727630918)
 - [Structurify](https://modrinth.com/mod/structurify)
-- [Small World Type](https://modrinth.com/datapack/lce-small-world-type)
+- [Small World Type](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVVJQldfTVBtSnhtQUpIRnVaY3ZFTWVodEdFZ3xBQ3Jtc0trOGpTU1B3WnRzNXNWWmd2NktOV3NKOTkzdW1uOVV1ZGRGV3pfdXVxY21IeUJqUkpFcHBMMGU3TE5Fang5aVJVX1lXUjBaSmJSc3c2TUlJdEVUYmozOVd6U2FQRnVOQkpackl2UFN3cjhDc2xIYnhnbw&q=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F6k1vmb3f2z58f4m%2FConsole_Experience_Tools_%2525281.20.0%252529.zip%2Ffile&v=bzr2z5JxkEI)
 - [Old Villages](https://www.planetminecraft.com/data-pack/classic-villages)
 - [No Caves](https://modrinth.com/datapack/no-caves)
 
 ## The Nether
 - [Legacy Nether](https://modrinth.com/datapack/legacy-nether-modrinth) or [Legacy Nether: Extended](https://modrinth.com/datapack/legacy-nether-extended)
 - [Limited Worlds](https://discord.com/channels/1379530548699205774/1403108173363023933/1432373318727630918)
+- [Classic Nether:Overworld ratio](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVVJQldfTVBtSnhtQUpIRnVaY3ZFTWVodEdFZ3xBQ3Jtc0trOGpTU1B3WnRzNXNWWmd2NktOV3NKOTkzdW1uOVV1ZGRGV3pfdXVxY21IeUJqUkpFcHBMMGU3TE5Fang5aVJVX1lXUjBaSmJSc3c2TUlJdEVUYmozOVd6U2FQRnVOQkpackl2UFN3cjhDc2xIYnhnbw&q=https%3A%2F%2Fwww.mediafire.com%2Ffile%2F6k1vmb3f2z58f4m%2FConsole_Experience_Tools_%2525281.20.0%252529.zip%2Ffile&v=bzr2z5JxkEI)
 
 ## The End
 - [Limited Worlds](https://discord.com/channels/1379530548699205774/1403108173363023933/1432373318727630918)
